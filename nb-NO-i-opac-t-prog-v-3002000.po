@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nb-NO-i-opac-t-prog-v-3000000\n"
 "POT-Creation-Date: 2010-02-20 22:16+1300\n"
-"PO-Revision-Date: 2010-03-09 14:19+0100\n"
+"PO-Revision-Date: 2010-03-09 15:47+0100\n"
 "Last-Translator: \n"
 "Language-Team: Oversetting <kde-i18n-doc@kde.org>\n"
 "Language: nb\n"
@@ -7953,9 +7953,8 @@ msgid "my reading history"
 msgstr "Lesehistorikk"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/includes/usermenu.inc:16
-#, fuzzy
 msgid "my search history"
-msgstr "Søk etter:"
+msgstr "Søkehistorikk"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/includes/usermenu.inc:4
 msgid "my summary"
