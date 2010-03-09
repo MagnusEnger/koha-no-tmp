@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nb-NO-i-opac-t-prog-v-3000000\n"
 "POT-Creation-Date: 2010-02-20 22:16+1300\n"
-"PO-Revision-Date: 2010-03-08 10:42+0100\n"
+"PO-Revision-Date: 2010-03-09 14:19+0100\n"
 "Last-Translator: \n"
 "Language-Team: Oversetting <kde-i18n-doc@kde.org>\n"
 "Language: nb\n"
@@ -1807,9 +1807,8 @@ msgid "Advanced Search"
 msgstr "Avansert søk"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/includes/masthead.inc:79
-#, fuzzy
 msgid "All Libraries"
-msgstr "Alle filialer"
+msgstr "Alle bibliotek"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-tags.tmpl:77
 msgid "All Tags"
@@ -5546,9 +5545,8 @@ msgid "Search for:"
 msgstr "Søk etter:"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-search-history.tmpl:34
-#, fuzzy
 msgid "Search history"
-msgstr "Søk etter:"
+msgstr "Søkehistorikk"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-opensearch.tmpl:22
 msgid "Search results"
