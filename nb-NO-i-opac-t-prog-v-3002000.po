@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nb-NO-i-opac-t-prog-v-3000000\n"
 "POT-Creation-Date: 2010-02-20 22:16+1300\n"
-"PO-Revision-Date: 2010-03-09 15:47+0100\n"
+"PO-Revision-Date: 2010-03-10 15:56+0100\n"
 "Last-Translator: \n"
 "Language-Team: Oversetting <kde-i18n-doc@kde.org>\n"
 "Language: nb\n"
@@ -6894,9 +6894,8 @@ msgstr ""
 "må logge inn igjen."
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-suggestions.tmpl:105
-#, fuzzy
 msgid "Your suggestion has been submitted."
-msgstr "Passordet er blitt endret"
+msgstr "Forslaget ditt har blitt sendt inn. "
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/sco/sco-main.tmpl:144
 msgid "Your userid was not found in the database. Please try again."
@@ -7938,7 +7937,7 @@ msgstr "Lister"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/includes/usermenu.inc:27
 msgid "my messaging"
-msgstr "Tekstmeldinger:"
+msgstr "Meldinger"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/includes/usermenu.inc:8
 msgid "my personal details"
