@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nb-NO-i-opac-t-prog-v-3000000\n"
 "POT-Creation-Date: 2010-02-20 22:16+1300\n"
-"PO-Revision-Date: 2010-03-10 15:56+0100\n"
+"PO-Revision-Date: 2010-03-13 17:43+0100\n"
 "Last-Translator: \n"
 "Language-Team: Oversetting <kde-i18n-doc@kde.org>\n"
 "Language: nb\n"
@@ -1959,10 +1959,9 @@ msgid "At branch: %s"
 msgstr "Ved avdelingen: %s"
 
 #. %1$s: TMPL_VAR name=branchname
-#: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-detail.tmpl:576
-#, fuzzy, c-format
+#: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-detail.tmpl:576, c-format
 msgid "At library: %s"
-msgstr "Ved biblioteket: %s %s"
+msgstr "Ved biblioteket: %s"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/includes/subtypes_unimarc.inc:4
 msgid "Audience"
@@ -5766,9 +5765,8 @@ msgid "Show up to"
 msgstr "Vis opp til"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-full-serial-issues.tmpl:158
-#, fuzzy
 msgid "Show year:"
-msgstr "Mine tagger"
+msgstr "Vis år: "
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-readingrecord.tmpl:32
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-readingrecord.tmpl:35
@@ -6144,10 +6142,9 @@ msgid "The"
 msgstr "Oppgaver"
 
 #. %1$s: TMPL_VAR name=opacdisplaycount
-#: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-detail.tmpl:583
-#, fuzzy, c-format
+#: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-detail.tmpl:583, c-format
 msgid "The %s latest issues for this subscription:"
-msgstr "De tre siste numrene av dette abonnementet:"
+msgstr "De %s siste numrene av dette abonnementet:"
 
 #. %1$s: TMPL_VAR name=limit
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-topissues.tmpl:40
@@ -6222,10 +6219,9 @@ msgid "The userid"
 msgstr "Oppgaver"
 
 #. %1$s: TMPL_VAR name=subscriptionsnumber
-#: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-detail.tmpl:574
-#, fuzzy, c-format
+#: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-detail.tmpl:574, c-format
 msgid "There are %s subscription(s) associated with this title."
-msgstr "(%s abonnementer er knyttet til dette navnet)."
+msgstr "%s abonnementer er knyttet til denne tittelen."
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-detail.tmpl:678
 msgid "There are no comments for this item."
@@ -6288,7 +6284,6 @@ msgstr ""
 "siden."
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-detail.tmpl:573
-#, fuzzy
 msgid "This is a serial"
 msgstr "Dette er et abonnement på periodika"
 
