@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nb-NO-i-opac-t-prog-v-3000000\n"
 "POT-Creation-Date: 2010-02-20 22:16+1300\n"
-"PO-Revision-Date: 2010-03-13 17:43+0100\n"
+"PO-Revision-Date: 2010-03-13 17:49+0100\n"
 "Last-Translator: \n"
 "Language-Team: Oversetting <kde-i18n-doc@kde.org>\n"
 "Language: nb\n"
@@ -4366,10 +4366,9 @@ msgid "Missing"
 msgstr "Mangler"
 
 #. %1$s: TMPL_VAR name=missinglist
-#: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-detail.tmpl:580
-#, fuzzy, c-format
+#: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/modules/opac-detail.tmpl:580, c-format
 msgid "Missing issues: %s"
-msgstr "Prøver å låne %s"
+msgstr "Manglende hefter: %s"
 
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/xslt/MARC21slim2OPACResults.xsl:513
 #: /home/chris/git/koha.git/koha-tmpl/opac-tmpl/prog/en/xslt/MARC21slim2OPACDetail.xsl:51
